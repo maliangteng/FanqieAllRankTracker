@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-15",
-  "prev_date": "2026-09-14",
+  "date": "2026-09-16",
+  "prev_date": "2026-09-15",
   "types": [
     {
       "type": "all",
       "url": "api/latest/male_read/all.json",
       "category_count": 19,
-      "book_count": 560
+      "book_count": 570
     },
     {
       "type": "西方奇幻",
@@ -51,7 +51,7 @@
     {
       "type": "都市种田",
       "url": "api/latest/male_read/%E9%83%BD%E5%B8%82%E7%A7%8D%E7%94%B0.json",
-      "book_count": 20
+      "book_count": 30
     },
     {
       "type": "传统玄幻",
