@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-13",
-  "prev_date": "2026-10-12",
+  "date": "2026-10-14",
+  "prev_date": "2026-10-13",
   "types": [
     {
       "type": "all",
       "url": "api/latest/female_read/all.json",
       "category_count": 18,
-      "book_count": 470
+      "book_count": 540
     },
     {
       "type": "古风世情",
       "url": "api/latest/female_read/%E5%8F%A4%E9%A3%8E%E4%B8%96%E6%83%85.json",
-      "book_count": 10
+      "book_count": 30
     },
     {
       "type": "科幻末世",
@@ -36,7 +36,7 @@
     {
       "type": "种田",
       "url": "api/latest/female_read/%E7%A7%8D%E7%94%B0.json",
-      "book_count": 0
+      "book_count": 30
     },
     {
       "type": "年代",
@@ -81,7 +81,7 @@
     {
       "type": "女频悬疑",
       "url": "api/latest/female_read/%E5%A5%B3%E9%A2%91%E6%82%AC%E7%96%91.json",
-      "book_count": 10
+      "book_count": 30
     },
     {
       "type": "职场婚恋",
